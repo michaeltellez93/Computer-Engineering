@@ -4,10 +4,10 @@
 <!-- Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.                   -->
 <!-- Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.   -->
 
-<Project Product="Vivado" Version="7" Minor="70" Path="C:/Computer-Engineering/MGT2_8R/MGT2_8R/MGT2_8R.xpr">
+<Project Product="Vivado" Version="7" Minor="70" Path="C:/Computer-Engineering/MGT2_8R/MGT2_8R.xpr">
   <DefaultLaunch Dir="$PRUNDIR"/>
   <Configuration>
-    <Option Name="Id" Val="f29b7994fddd4513ac29581387768516"/>
+    <Option Name="Id" Val="6fecac82c071445d8a97410a967ea3be"/>
     <Option Name="Part" Val="xc7z007sclg400-1"/>
     <Option Name="CompiledLibDir" Val="$PCACHEDIR/compile_simlib"/>
     <Option Name="CompiledLibDirXSim" Val=""/>
