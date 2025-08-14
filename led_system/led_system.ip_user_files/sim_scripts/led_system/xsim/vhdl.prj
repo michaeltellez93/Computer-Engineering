@@ -1,0 +1,6 @@
+vhdl xil_defaultlib  \
+"../../../../led_system.gen/sources_1/bd/led_system/ip/led_system_proc_sys_reset_0_0/sim/led_system_proc_sys_reset_0_0.vhd" \
+"../../../../led_system.gen/sources_1/bd/led_system/ip/led_system_axi_smc_0/bd_0/ip/ip_1/sim/bd_287e_psr_aclk_0.vhd" \
+
+# Do not sort compile order
+nosort
